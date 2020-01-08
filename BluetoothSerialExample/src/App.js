@@ -14,7 +14,7 @@ import {
 } from 'react-native'
 
 import Toast from '@remobile/react-native-toast'
-import BluetoothSerial from 'react-native-bluetooth-serial'
+import BluetoothSerial from 'caiorios/rn-bluetooth'
 import { Buffer } from 'buffer'
 global.Buffer = Buffer
 const iconv = require('iconv-lite')
